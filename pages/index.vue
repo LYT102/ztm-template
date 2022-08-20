@@ -17,7 +17,7 @@
       <div id = "Profile-Description" class = "text-white text-center mt-10">
         <h1 class = "text-5xl uppercase">Junior Data Analyst</h1>
         <h2 class = "text-3xl uppercase my-5"> Yee Thong</h2>
-        <p>Hi I am Yee Thong you can call me YT in short. I am interested in solving data problem and visulize something out from the data.
+        <p>Hi I am Yee Thong you can call me YT in short. I am interested in solving data problems and visulize something out from the data.
           This will be first webpage design for my own data science application. In my webpage I will also teach you some Python pandas trick on solving some data problem.
         </p>
       </div>
